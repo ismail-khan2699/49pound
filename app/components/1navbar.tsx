@@ -32,7 +32,7 @@ function Navbar() {
                     </div>
                 </div>
                 <div>
-                    <Image height={300} width={500} className="w-full" src="/svb1.jpg" alt="posts" />
+                    <Image height={300} width={500} className="w-full" src="/assets/svb1.jpg" alt="posts" />
                 </div>
             </div>
         </div>

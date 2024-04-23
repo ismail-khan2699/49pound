@@ -18,7 +18,7 @@ function Dropdown() {
             <div className="flex items-center justify-between h-16 lg:h-20">
                 <div className="flex-shrink-0">
                     <Link href="#" title="" className="flex">
-                        <Image height={100} width={300} className="w-auto h-12" src="/page.jpg" alt="logo" />
+                        <Image height={100} width={300} className="w-auto h-12" src="/assets/page.jpg" alt="logo" />
                     </Link>
                 </div>
 

@@ -38,7 +38,7 @@ function Footer() {
         <nav className="list-none mb-10 grid col-span-1 gap-y-4">
           <li>
             <Link href="#" className="text-gray-50 transition-all duration-200 hover:text-custom-yello">
-              <Image height={75} width={150} src="/page.jpg" alt='' />
+              <Image height={75} width={150} src="/assets/page.jpg" alt='' />
             </Link>
           </li>
           <li>

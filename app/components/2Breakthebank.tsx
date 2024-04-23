@@ -22,7 +22,7 @@ function Break() {
             <div className="relative px-6 sm:pl-6 md:px-0 h-full overflow-y-hidden">
             <ScrollAnimation animationData={animationData[2]}>
                 <div className="relative w-full max-w-xs mt-4 mb-10 mx-auto">
-                    <Image height={700} width={200} className=" w-auto" src="/Dboost.jpg" alt="" />
+                    <Image height={700} width={200} className=" w-auto" src="/assets/Dboost.jpg" alt="" />
 
                 </div>
             </ScrollAnimation>

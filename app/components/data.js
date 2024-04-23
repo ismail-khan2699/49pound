@@ -40,11 +40,11 @@ const animationData = [
 ];
 
 const slideShow = [
-  { src: "/slack.jpg", alt: "Slack" },
-  { src: "/fbads.jpg", alt: "Disney" },
-  { src: "/Analytics.jpg", alt: "Google Analytics" },
-  { src: "/wp.jpg", alt: "WordPress" },
-  { src: "/semrush.jpg", alt: "SemRush" },
+  { src: "/assets/slack.jpg", alt: "Slack" },
+  { src: "/assets/fbads.jpg", alt: "Disney" },
+  { src: "/assets/Analytics.jpg", alt: "Google Analytics" },
+  { src: "/assets/wp.jpg", alt: "WordPress" },
+  { src: "/assets/semrush.jpg", alt: "SemRush" },
 ];
 const qnaData = [
   {
