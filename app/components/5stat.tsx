@@ -4,7 +4,7 @@ import NumberCounter from './clientside/changingNum'
 function Statpage() {
   return (
     <div className=' w-full bg-custom-magenta h-auto py-32 flex flex-col pointer-events-none justify-center items-center gap-3'>
-        <h1 className=' text-white font-bold text-6xl hover:underline '>How Does It Work?</h1>
+        <h1 className=' text-white mx-2 font-bold text-3xl md:text-6xl hover:underline '>How Does It Work?</h1>
         <h2 className='text-white font-semibold text-2xl '>Dive In Today—It's A Piece Of Cake.</h2>
         <div className='flex flex-col lg:flex-row gap-5 justify-between max-lg:items-center w-full px-28'>
             <div className=' w-full lg:w-1/3 flex flex-col items-center gap-3'>

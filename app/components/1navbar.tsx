@@ -12,11 +12,11 @@ function Navbar() {
     <Dropdown/>
     </header>
 
-    <section className="py-10 sm:py-16 lg:py-24 easy">
+    <section className="py-10 sm:py-6 lg:py-1 easy">
         <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
-            <div className="grid items-center grid-cols-1 gap-12 lg:grid-cols-2">
+            <div className="grid  grid-cols-1 gap-12 lg:grid-cols-2">
                 <div>
-                    <h1 className="text-4xl font-bold text-white sm:text-6xl lg:text-7xl">
+                    <h1 className="text-4xl py-4 font-bold text-white sm:text-6xl lg:text-7xl">
                     Affordable Social Media
                         <div className="relative inline-flex">
                             <span className="absolute inset-x-0 bottom-0 border-b-[30px] border-[#4ADE80]"></span>
@@ -32,7 +32,7 @@ function Navbar() {
                     </div>
                 </div>
                 <div>
-                    <Image height={300} width={500} className="w-full" src="/assets/svb1.jpg" alt="posts" />
+                    <Image height={200} width={450} className="" src="/assets/svb1.jpg" alt="posts" />
                 </div>
             </div>
         </div>
