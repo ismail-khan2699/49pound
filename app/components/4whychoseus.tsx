@@ -12,7 +12,7 @@ function Choseus() {
     <div className=" w-full mx-0 flex pt-14 md:pb-14 max-md:bg-custom-magenta max-md:flex-col-reverse flex-wrap">
       <Image height={1000} width={500} alt="ecommerce" className="md:w-1/2 w-full object-cover object-center h-96 md:rounded-r-md rounded-none" src="/assets/smileyface.jpg"/>
       <div className="md:w-1/2 w-full flex flex-col   px-4 md:py-6 mt-6 md:mt-0">
-        <h2 className="text-sm title-font text-gray-300 md:text-gray-500 font-semibold tracking-widest py-2">Why Chose Us</h2>
+        <h2 className="text-sm title-font text-gray-300 md:text-gray-500 font-semibold tracking-widest py-2">Why Choose Us</h2>
         <div className='flex my-2'>
         <div className='max-md:hidden h-auto w-0 border-l-2 mr-2  border-custom-yello'></div>
         <h1 className="text-white md:text-gray-900 text-4xl font-bold mb-1 py-2">We Take Social Media Off Your 'To-Do' List!</h1>
@@ -29,7 +29,7 @@ function Choseus() {
     <div className=" w-full mx-0 flex pt-14 md:pb-14 bg-white max-md:flex-col-reverse md:flex-row-reverse md:bg-custom-magenta flex-wrap">
       <Image height={1000} width={500} alt="ecommerce" className="md:w-1/2 w-full object-cover object-center h-96 md:rounded-l-md rounded-none" src="/assets/socialcollage.jpg"/>
       <div className="md:w-1/2 w-full flex flex-col   px-4 md:py-6 mt-6 md:mt-0">
-        <h2 className="text-sm title-font text-gray-500 md:text-gray-400 font-semibold tracking-widest py-2">Why Chose Us</h2>
+        <h2 className="text-sm title-font text-gray-500 md:text-gray-400 font-semibold tracking-widest py-2">Why Choose Us</h2>
         <div className='flex my-2'>
         <div className='max-md:hidden h-auto w-0 border-l-2 mr-2  border-custom-yello'></div>
         <h1 className="text-gray-900 md:text-white text-4xl font-bold mb-1 py-2">Eye-Catching Visuals That Grab Attention!</h1>
@@ -43,7 +43,7 @@ function Choseus() {
   <div className=" w-full mx-0 flex pt-14 md:pb-14 max-md:flex-col-reverse max-md:bg-custom-magenta flex-wrap">
       <Image height={1000} width={500} alt="ecommerce" className="md:w-1/2 w-full object-cover object-center h-96 md:rounded-r-md rounded-none" src="/assets/boost-graph.jpg"/>
       <div className="md:w-1/2 w-full flex flex-col   px-4 md:py-6 mt-6 md:mt-0">
-        <h2 className="text-sm title-font text-gray-300 md:text-gray-500 font-semibold tracking-widest py-2">Why Chose Us</h2>
+        <h2 className="text-sm title-font text-gray-300 md:text-gray-500 font-semibold tracking-widest py-2">Why Choose Us</h2>
         <div className='flex my-2'>
         <div className='max-md:hidden h-auto w-0 border-l-2 mr-2  border-custom-yello'></div>
         <h1 className="text-white md:text-gray-900 text-4xl font-bold mb-1 py-2">We've Got It All! SEO Blogs, Social Media Marketing.</h1>
